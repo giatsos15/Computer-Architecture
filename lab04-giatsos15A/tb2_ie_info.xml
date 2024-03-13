@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!--Created by Liquid XML 2008 (www.liquid-technologies.com) for Altera-->
+<ProgramExecution xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
+	<QuartusExecution>
+		<AddressBits>64</AddressBits>
+		<ApplicationError>
+		<Bits>64</Bits>
+		<CommandLine>quartus</CommandLine>
+		<ErrorMessage>Stack Overflow</ErrorMessage>
+		<Line>0</Line>
+		<Platform>windows</Platform>
+		<SourceFile>unknown</SourceFile>
+		<StackTrace>
+	0x7ff9e69c8a34: (?get_path@AFCQ_TREE_VIEW@@IEAA?AVQString@@VQModelIndex@@@Z + 0x54)
+	0x7ff9e69ebf19: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x149)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x467)
+	0x7ff9e69ec2fa: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPEAVQStandardItem@@VQModelIndex@@_N@Z + 0x52a)
+	0x7ff9e69ec237: (?save_expandable_state@AFCQ_TREE_VIEW@@QEAAXPE		</StackTrace>
+		<Subsystem>unknown</Subsystem>
+	</ApplicationError>
+	<Compilation>
+			<CompileID>0</CompileID>
+			<DeviceFamily/>
+			<IncrementalCompilation/>
+			<TopLevelEntityName/>
+		</Compilation>
+		<DateInvoked>2020/11/20 19:05:16</DateInvoked>
+		<ElapsedTime>685</ElapsedTime>
+		<IP>192.168.88.1,192.168.122.1,192.168.1.37</IP>
+		<IsInternal>false</IsInternal>
+		<IsQt>true</IsQt>
+		<License>
+			<Edition>Web Edition</Edition>
+			<LicenseHostID/>
+		</License>
+		<Machine>
+			<CPUCountLogical>4</CPUCountLogical>
+			<CPUCountPhysical>1</CPUCountPhysical>
+			<CPUSpeed>2904</CPUSpeed>
+			<Hostname>DESKTOP-QPGB04T</Hostname>
+			<NIC>
+				<Address>509a4cba04f8</Address>
+			</NIC>
+			<NIC>
+				<Address>00ffdef23221</Address>
+			</NIC>
+			<NIC>
+				<Address>005056c00001</Address>
+			</NIC>
+			<NIC>
+				<Address>005056c00008</Address>
+			</NIC>
+			<NIC>
+				<Address>aced5ca90e48</Address>
+			</NIC>
+			<NIC>
+				<Address>aced5ca90e49</Address>
+			</NIC>
+			<NIC>
+				<Address>aeed5ca90e48</Address>
+			</NIC>
+			<OS>Windows 7</OS>
+			<OSAddressBits>64</OSAddressBits>
+			<OSVersion>6.2</OSVersion>
+			<Platform>windows</Platform>
+			<ScreenResolution>unknown</ScreenResolution>
+			<TotalPhysicalRAM>8090</TotalPhysicalRAM>
+			<TotalVirtualRAM>4864</TotalVirtualRAM>
+		</Machine>
+		<Name>quartus</Name>
+		<PeakMemoryUsed>0</PeakMemoryUsed>
+		<ProjectRevision>
+			<ProjectName/>
+			<Revision/>
+		</ProjectRevision>
+		<QuartusInstallation>
+			<InstallationID>88623642445048.160571665413992</InstallationID>
+			<Version>
+				<Build>232</Build>
+				<BuildSite>SJ</BuildSite>
+				<BuildSuffix/>
+				<Edition>Web Edition</Edition>
+				<ServicePack>0</ServicePack>
+				<VersionNumber>13</VersionNumber>
+			</Version>
+		</QuartusInstallation>
+		<QuartusUser>
+			<AlteraUserName/>
+			<FAEContactName/>
+			<TalkbackStatus>
+				<DateSet/>
+				<TalkbackOn>true</TalkbackOn>
+			</TalkbackStatus>
+			<UserID>88623642445048.152554082111136</UserID>
+			<UserName>giats</UserName>
+		</QuartusUser>
+	</QuartusExecution>
+	<SchemaVersion>schema_2013-01-18</SchemaVersion>
+</ProgramExecution>
+
